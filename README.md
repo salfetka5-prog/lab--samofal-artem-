@@ -1,2 +1,2 @@
-# lab--samofal-artem-
-laboratory_1
+# lab--samofal-nesterenko-
+LABORATORY_1
